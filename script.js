@@ -12,12 +12,18 @@ Created by.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 */
 
-
-
+function transOne(){
+	$('#trans-one-left').animate({
+		param1: value1,
+		param2: value2},
+		speed, function() {
+		/* stuff to do after animation is complete */
+	});
+}
 
 // Events
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 $('#bouton-1').click(function(){
-	$('#block-1').fadeOut(1000);
+
 });
