@@ -75,14 +75,20 @@ article[id^="block-"] {
 
 /* TransOne */
 div[id^="trans-one-"] {
-	width   : 100%;
+	width   : 50%;
 	height  : 100%;
 	position: fixed;
 	top     : 0;
-	left    : 0;
 	z-index : 888;
 	background-color: #BDC3C7;
-	display: none;
+}
+
+#trans-one-left {
+	left: -50%;
+}
+
+#trans-one-right {
+	left: 100%;
 }
 
 /* Options
