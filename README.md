@@ -1,1 +1,1 @@
-# Animate Wainting Page -- School Project
+# Animate Waiting Page -- School Project
