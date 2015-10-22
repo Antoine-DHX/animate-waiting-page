@@ -1,0 +1,1061 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"INL",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sql",
+				"sqlfiche"
+			],
+			[
+				"url",
+				"urlimg"
+			],
+			[
+				"aper",
+				"apercu_en"
+			],
+			[
+				"dat",
+				"datfin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"cou",
+				"couleurnext"
+			],
+			[
+				"couleur",
+				"couleurnext"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"prepe",
+				"prependTo	.prependTo()"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"fec",
+				"fetch"
+			],
+			[
+				"app",
+				"appellation"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"select",
+				"selectuser"
+			],
+			[
+				"fr",
+				"frblockone"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"str",
+				"strtoupper"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"coun",
+				"countautre"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"m",
+				"millesime"
+			],
+			[
+				"mi",
+				"millesimeselect"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"cep",
+				"cepidtemp"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"med",
+				"med"
+			],
+			[
+				"con",
+				"concour"
+			],
+			[
+				"cepage",
+				"cepage1"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"url-",
+				"url-page"
+			],
+			[
+				"trans",
+				"transition-duration"
+			],
+			[
+				"wh",
+				"while"
+			],
+			[
+				"vin",
+				"vinapp"
+			],
+			[
+				"page",
+				"pagesvins"
+			],
+			[
+				"err",
+				"errbefore"
+			],
+			[
+				"pag",
+				"pagenext"
+			],
+			[
+				"transition-d",
+				"transition-duration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"transition",
+				"transition-duration"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"only_",
+				"only_millesime"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"medaille",
+				"medaille_concour"
+			],
+			[
+				"mod-med-",
+				"mod-med-concour"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"mod-med",
+				"mod-med-concour"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fiche",
+				"fiche_technique"
+			],
+			[
+				"total",
+				"totalcep"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ex",
+				"extension_upload"
+			],
+			[
+				"urlfic",
+				"urlfiche1"
+			],
+			[
+				"degust",
+				"degustation_en"
+			],
+			[
+				"tran",
+				"transfert2"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ceptt",
+				"ceptitre3"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"sqlC",
+				"sqlcepage"
+			],
+			[
+				"sq",
+				"sqlAppelation"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"cepa",
+				"cepageVin"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"actualit",
+				"actualites-et-presse"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"fro",
+				"form	Tag"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ec",
+				"ecf0f1"
+			],
+			[
+				"clas",
+				"class	Attr"
+			],
+			[
+				"input",
+				"inputs	input - submit"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"POS",
+				"postUrl"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"contenu",
+				"contenublock"
+			],
+			[
+				"backgourn",
+				"background-repeat"
+			],
+			[
+				"curre",
+				"current"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"cat",
+				"catAll"
+			],
+			[
+				"ca",
+				"catId"
+			],
+			[
+				"c",
+				"cat"
+			],
+			[
+				"menu",
+				"menuResult"
+			],
+			[
+				"all",
+				"allCat"
+			],
+			[
+				"is_",
+				"is_bool"
+			],
+			[
+				"temp",
+				"tempTabl"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"po",
+				"postUrl"
+			],
+			[
+				"me",
+				"menuTemp"
+			],
+			[
+				"post",
+				"_POST"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"user",
+				"userType"
+			],
+			[
+				"la",
+				"label	Tag"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"class",
+				"classement"
+			],
+			[
+				"selec",
+				"selectType"
+			],
+			[
+				"meu",
+				"menuResult"
+			],
+			[
+				"max",
+				"maxMenu"
+			],
+			[
+				"men",
+				"menuResult"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"set s php",
+				"Set Syntax: PHP"
+			],
+			[
+				"git co",
+				"Set Syntax: Git Config"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Quick Status"
+			],
+			[
+				"git re",
+				"Git: Remote"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Quick Status"
+			],
+			[
+				"git commit ",
+				"Git: Quick Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/projet"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/projet/script.js",
+		"/opt/lampp/htdocs/xwb/admin/incl/bdd.php",
+		"/opt/lampp/htdocs/xwb/control/bdd.control.php",
+		"/opt/lampp/htdocs/xwb/admin/incl/head.php",
+		"/home/xee/Documents/slackbot.txt",
+		"/opt/lampp/htdocs/xwb/template/admin-default/style.css",
+		"/opt/lampp/htdocs/xwb/admin/incl/end.php",
+		"/home/xee/Documents/work/waylord/includes/connect.php",
+		"/opt/lampp/htdocs/xwb/public/incl/head.php",
+		"/opt/lampp/htdocs/projects/eemi.sublime-project",
+		"/opt/lampp/htdocs/xwb/public/incl/end.php",
+		"/opt/lampp/htdocs/xwb/template/public/style.css",
+		"/opt/lampp/htdocs/xwb/public/index.php",
+		"/opt/lampp/htdocs/xwb/public/contact.php",
+		"/opt/lampp/htdocs/xwb/admin/index.php",
+		"/opt/lampp/htdocs/xwb/fonction/form.php",
+		"/opt/lampp/htdocs/xwb/admin/page-all.php",
+		"/opt/lampp/htdocs/xwb/public/le-domaine-felix-en-bourgogne.php",
+		"/opt/lampp/htdocs/xwb/admin/news-modif.php",
+		"/opt/lampp/htdocs/xwb2/.htaccess",
+		"/opt/lampp/htdocs/xwb2/robot.txt",
+		"/opt/lampp/htdocs/xwb/robot.txt",
+		"/opt/lampp/htdocs/xwb2/index.php",
+		"/opt/lampp/htdocs/xwb/public/incl/lang.php",
+		"/home/xee/Documents/Dropbox/XWB/admin/index.php",
+		"/home/xee/Documents/Dropbox/XWB/public/incl/lang.php",
+		"/home/xee/Documents/Dropbox/XWB/admin/incl/head.php",
+		"/home/xee/Documents/Dropbox/XWB/admin/incl/bdd.php",
+		"/home/xee/Documents/Dropbox/EEMI/2A/S1/Design/style.css",
+		"/home/xee/Documents/Dropbox/EEMI/2A/S1/Design/index.html",
+		"/tmp/sublime-sftp-browse-1443030560/test/www/public/rose-wines.php",
+		"/tmp/sublime-sftp-browse-1443030534/test/www/public/red-wines.php",
+		"/tmp/sublime-sftp-browse-1443030525/test/www/public/white-wines.php",
+		"/tmp/sublime-sftp-browse-1443030517/test/www/public/effervescents-et-spiritueux.php",
+		"/tmp/sublime-sftp-browse-1443030505/test/www/public/vins-rouges.php",
+		"/tmp/sublime-sftp-browse-1443030497/test/www/public/vins-roses.php",
+		"/tmp/sublime-sftp-browse-1443030566/test/www/public/effervescents-and-liquors.php",
+		"/tmp/sublime-sftp-browse-1443030484/test/www/public/vins-blancs.php",
+		"/tmp/sublime-sftp-browse-1443030550/test/www/public/white-wines.php",
+		"/tmp/sublime-sftp-browse-1443029498/test/www/admin/mod-vin-modif.php",
+		"/tmp/sublime-sftp-browse-1443030146/domfelix/www/admin/image-all.php",
+		"/tmp/sublime-sftp-browse-1443029891/domfelix/www/template/public/style.css",
+		"/tmp/sublime-sftp-browse-1443029491/test/www/admin/mod-vin-add.php",
+		"/tmp/sublime-sftp-browse-1443029272/test/www/public/index.php",
+		"/home/xee/.config/sublime-text-3/Packages/User/sftp_servers/test",
+		"/opt/lampp/htdocs/wp/wp-content/themes/test/style.css",
+		"/opt/lampp/htdocs/wp/wp-content/themes/test/index.php",
+		"/tmp/sublime-sftp-browse-1443024136/domfelix/www/public/medals.php",
+		"/tmp/sublime-sftp-browse-1443025726/domfelix/www/admin/image-add.php",
+		"/tmp/sublime-sftp-browse-1443025036/domfelix/www/admin/news-modif.php",
+		"/tmp/sublime-sftp-browse-1443027509/domfelix/www/admin/incl/bdd.php",
+		"/tmp/sublime-sftp-browse-1443024129/domfelix/www/public/medailles.php",
+		"/opt/lampp/htdocs/wp/wp-content/themes/twentyfifteen/style.css",
+		"/home/xee/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/tmp/sublime-sftp-browse-1443022393/domfelix/www/template/public/mobile.css",
+		"/tmp/sublime-sftp-browse-1443013949/domfelix/www/robot.txt",
+		"/tmp/sublime-sftp-browse-1443013330/domfelix/www/public/incl/end.php",
+		"/tmp/sublime-sftp-browse-1443013927/domfelix/www/index.php",
+		"/tmp/sublime-sftp-browse-1443013245/domfelix/www/public/incl/head.php",
+		"/opt/lampp/htdocs/wp/wp-config.php",
+		"/tmp/sublime-sftp-browse-1443004876/domfelix/www/template/public/style.css",
+		"/tmp/sublime-sftp-browse-1442935679/domfelix/www/admin/mod-vin-modif.php",
+		"/tmp/sublime-sftp-browse-1442935664/domfelix/www/admin/mod-vin-add.php",
+		"/tmp/sublime-sftp-browse-1442935852/domfelix/www/admin/image-all.php",
+		"/tmp/sublime-sftp-browse-1442934887/domfelix/www/admin/404.php",
+		"/tmp/sublime-sftp-browse-1442933746/domfelix/www/admin/404.php",
+		"/tmp/sublime-sftp-browse-1442933848/domfelix/www/admin/cat-all.php",
+		"/tmp/sublime-sftp-browse-1442933939/domfelix/www/admin/image-add.php",
+		"/tmp/sublime-sftp-browse-1442933222/domfelix/www/admin/page-all.php",
+		"/tmp/sublime-sftp-browse-1442933190/domfelix/www/admin/incl/head.php",
+		"/tmp/sublime-sftp-browse-1442909051/domfelix/www/public/nos-vins.php",
+		"/tmp/sublime-sftp-browse-1442909025/domfelix/www/public/medals.php",
+		"/tmp/sublime-sftp-browse-1442909017/domfelix/www/public/medailles.php",
+		"/tmp/sublime-sftp-browse-1442911045/domfelix/www/admin/news-add.php",
+		"/tmp/sublime-sftp-browse-1442910950/domfelix/www/admin/news-add.php",
+		"/tmp/sublime-sftp-browse-1442907539/domfelix/www/public/effervescents-and-liquors.php",
+		"/tmp/sublime-sftp-browse-1442907534/domfelix/www/public/white-wines.php",
+		"/tmp/sublime-sftp-browse-1442907529/domfelix/www/public/rose-wines.php",
+		"/tmp/sublime-sftp-browse-1442908770/domfelix/www/template/admin-default/jquery-ui-two.css",
+		"/tmp/sublime-sftp-browse-1442907789/domfelix/www/public/vins-blancs.php",
+		"/tmp/sublime-sftp-browse-1442907510/domfelix/www/public/red-wines.php",
+		"/tmp/sublime-sftp-browse-1442907782/domfelix/www/public/white-wines.php",
+		"/tmp/sublime-sftp-browse-1442907391/domfelix/www/public/effervescents-et-spiritueux.php",
+		"/tmp/sublime-sftp-browse-1442907387/domfelix/www/public/vins-rouges.php",
+		"/tmp/sublime-sftp-browse-1442907382/domfelix/www/public/vins-roses.php",
+		"/tmp/sublime-sftp-browse-1442907343/domfelix/www/public/vins-blancs.php",
+		"/tmp/sublime-sftp-browse-1442907241/domfelix/www/admin/incl/bdd-test.php",
+		"/tmp/sublime-sftp-browse-1442906688/domfelix/www/public/our-wines.php",
+		"/tmp/sublime-sftp-browse-1442906676/domfelix/www/public/nos-vins.php",
+		"/tmp/sublime-sftp-browse-1442906991/domfelix/www/admin/incl/bdd.php",
+		"/home/xee/Documents/test.js",
+		"/home/xee/Documents/test.html",
+		"/tmp/sublime-sftp-browse-1442851115/domfelix/www/public/actualites-et-presse.php",
+		"/tmp/sublime-sftp-browse-1442852295/domfelix/www/public/our-wines.php",
+		"/tmp/sublime-sftp-browse-1442852289/domfelix/www/public/nos-vins.php",
+		"/tmp/sublime-sftp-browse-1442852000/domfelix/www/public/incl/head.php",
+		"/tmp/sublime-sftp-browse-1442850576/domfelix/www/public/incl/end.php",
+		"/tmp/sublime-sftp-browse-1442851124/domfelix/www/public/news-and-press.php",
+		"/tmp/sublime-sftp-browse-1442841967/domfelix/www/public/red-wines.php",
+		"/tmp/sublime-sftp-browse-1442841989/domfelix/www/public/rose-wines.php",
+		"/tmp/sublime-sftp-browse-1442841993/domfelix/www/public/effervescents-and-liquors.php",
+		"/tmp/sublime-sftp-browse-1442841872/domfelix/www/public/white-wines.php",
+		"/tmp/sublime-sftp-browse-1442841977/domfelix/www/public/red-wines.php",
+		"/tmp/sublime-sftp-browse-1442841009/domfelix/www/public/rose-wines.php",
+		"/tmp/sublime-sftp-browse-1442841332/domfelix/www/admin/mod-vin-modif.php",
+		"/tmp/sublime-sftp-browse-1442841577/domfelix/www/template/admin-default/style.css",
+		"/tmp/sublime-sftp-browse-1442841318/domfelix/www/admin/mod-vin-add.php",
+		"/tmp/sublime-sftp-browse-1442840931/domfelix/www/public/incl/head.php",
+		"/tmp/sublime-sftp-browse-1442840796/domfelix/www/public/pink-wines.php",
+		"/tmp/sublime-sftp-browse-1442832954/domfelix/www/public/medals.php",
+		"/tmp/sublime-sftp-browse-1442832779/domfelix/www/public/medailles.php",
+		"/tmp/sublime-sftp-browse-1442832704/domfelix/www/public/effervescents-and-liquors.php",
+		"/tmp/sublime-sftp-browse-1442832684/domfelix/www/public/pink-wines.php",
+		"/tmp/sublime-sftp-browse-1442832669/domfelix/www/public/red-wines.php",
+		"/tmp/sublime-sftp-browse-1442832588/domfelix/www/public/white-wines.php",
+		"/tmp/sublime-sftp-browse-1442831813/domfelix/www/public/vins-blancs.php",
+		"/tmp/sublime-sftp-browse-1442831273/domfelix/www/admin/page-modif.php",
+		"/tmp/sublime-sftp-browse-1442831122/domfelix/www/admin/incl/bdd.php",
+		"/tmp/sublime-sftp-browse-1442831108/domfelix/www/admin/incl/head.php",
+		"/tmp/sublime-sftp-browse-1442832373/domfelix/www/public/effervescents-et-spiritueux.php",
+		"/tmp/sublime-sftp-browse-1442832368/domfelix/www/public/vins-rouges.php",
+		"/tmp/sublime-sftp-browse-1442832340/domfelix/www/public/vins-roses.php",
+		"/tmp/sublime-sftp-browse-1442831308/domfelix/www/admin/page-add.php",
+		"/tmp/sublime-sftp-browse-1442830615/domfelix/www/public/medailles.php",
+		"/tmp/sublime-sftp-browse-1442831019/domfelix/www/public/index.php",
+		"/tmp/sublime-sftp-browse-1442827362/domfelix/www/admin/mod-med-add.php",
+		"/tmp/sublime-sftp-browse-1442827327/domfelix/www/admin/mod-med.php",
+		"/home/xee/Documents/Dropbox/Work/2015/Domaine Felix/code-hearder.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href",
+			"a",
+			"kjhsdqjhkd",
+			"Hello",
+			"div",
+			"block",
+			"div",
+			"block",
+			"Cat",
+			"general",
+			"meta",
+			"<script ",
+			"-->",
+			"<!--",
+			"-><",
+			"><",
+			"<link rel=\"stylesheet\"",
+			"bootstrap",
+			"<!--",
+			"Slicknav",
+			"->",
+			"-->",
+			"-->\n",
+			"->",
+			"$lang",
+			"lang",
+			"$LANG",
+			"Boostrap",
+			"-->\n",
+			"type=\"text/css\"",
+			"href",
+			"type=\"text/css\" ",
+			"type=\"text/css\"",
+			"header",
+			"bouton-home",
+			"_en",
+			"user",
+			" $user",
+			"$user",
+			"lang",
+			"_en",
+			"index",
+			"nbpage",
+			"nbPage",
+			" $_GET['page']",
+			"$_GET['page']",
+			"_GET",
+			"titre",
+			"/public/",
+			"header",
+			"header(",
+			"header",
+			"type=\"button\"",
+			"20px",
+			"50",
+			"20",
+			"25",
+			"50",
+			"2px",
+			"country",
+			"id",
+			"paiment",
+			"country",
+			"id",
+			"detail",
+			"<img class=\"right etiquette\"",
+			"Etiquette",
+			"$_GET['dossier']",
+			"$image",
+			"header",
+			"p",
+			"h2",
+			"\n	",
+			";\n",
+			"vin_appelation",
+			"FROM",
+			"$user",
+			"padding",
+			"tabs",
+			"underline",
+			"titre=<?php echo $link; ?>",
+			"underline",
+			"temps",
+			"\n		</tr>\n		<?php\n			}\n		?>",
+			"intro_en",
+			"app",
+			"sqlappelation",
+			"Appellation",
+			"1",
+			"$vin['vin']",
+			"couleur",
+			"1",
+			"$_POST['url2']",
+			"url2",
+			"medaille",
+			"concour",
+			"pas",
+			"page",
+			"$vin",
+			"sqlvin",
+			"bouteille",
+			"phone-picto",
+			"picto",
+			"sqlAllNews",
+			"count",
+			"concour",
+			"<?",
+			"effervescents-et-spiritieux.php",
+			"button-vin-es-r",
+			"button-vin-Rs",
+			"r",
+			"button-vin-Rs",
+			"Rose",
+			"ros",
+			"rosé",
+			"sous-titre-",
+			"press",
+			"medaille.php",
+			"medaille",
+			"list-bouteille",
+			"btn",
+			"top",
+			"serverr",
+			"errors",
+			"db586202465",
+			"img_min",
+			"cepage",
+			"annee"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 104.0
+	},
+	"output.git-init":
+	{
+		"height": 43.0
+	},
+	"output.git-remote":
+	{
+		"height": 104.0
+	},
+	"output.sftp":
+	{
+		"height": 24.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "animate.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/lampp/htdocs/poo/poo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
