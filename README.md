@@ -1,2 +1,1 @@
-# Animate Wainting Page
-# School Project
+# Animate Wainting Page -- School Project
