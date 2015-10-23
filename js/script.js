@@ -12,11 +12,6 @@ Created by.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 */
 
-// Variables
-// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-var userht = $('window').height();
-
 // Fonction
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -32,7 +27,7 @@ function transOne(){
 	$('#block-2').show().delay(1000).animate({
 		top: 0},
 		500, function() { });
-}
+};
 
 function transTwo(){
 	$('#block-2').animate({
@@ -40,10 +35,22 @@ function transTwo(){
 		500, function() {
 			hide();
 		});
+};
+
+function verticalCenter(id){
+	// id -> string
+	var htuser = $(window).height();
+	var htelem = $(id).height();
+	
 }
+
 
 // Events
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+$(window).load(function(){
+
+});
 
 $('#bouton-1').click(function(){
 	transOne();
