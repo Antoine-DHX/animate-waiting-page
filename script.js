@@ -15,11 +15,15 @@ Created by.
 function transOne(){
 	$('#trans-one-left').animate({
 		left: 0},
-		1000, function() { });
+		500, function() { });
 
 	$('#trans-one-right').animate({
 		left: "50%"},
-		1000, function() { });
+		500, function() { });
+
+	$('#block-2').delay(1000).animate({
+		top: 0},
+		500, function() { });
 }
 
 // Events
@@ -27,6 +31,4 @@ function transOne(){
 
 $('#bouton-1').click(function(){
 	transOne();
-	$('#block-1').fadeOut(1000);
-	$('#block-2').fadeIn(5000);
 });
